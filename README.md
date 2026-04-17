@@ -62,7 +62,7 @@ You can find My Work in Cyber Security here in my official website -> https://0x
   <div align="center">
     <img src="https://giffiles.alphacoders.com/209/209473.gif"
          width="350"
-         height="400"
+         height="200"
          style="border-radius: 12px;" 
          />
   </div>

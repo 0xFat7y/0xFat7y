@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fathy.medhat.1/">
+  <a href="https://www.instagram.com/0xfat7y/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

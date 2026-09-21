@@ -28,6 +28,7 @@ I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **fatymedat@gmail.com**
+- My blog **https://0xfat7y.vercel.app/**
 
 </details>
 <br>

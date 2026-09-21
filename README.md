@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/4b/b6/fe/4bb6fe80a1299d71099f3ba1cc0a7654.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://wallpapers-clan.com/wp-content/uploads/2025/09/miles-morales-headphones-night-city-gif-pc-wallpaper-preview.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">

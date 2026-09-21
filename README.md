@@ -24,7 +24,7 @@ I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a
 - **Name**: Fathy
 - **From**: Alexandria [Egypt]
 - **Bug Hunter** | **Security Researcher** | **Penteration tester**
-- i have experience in **Web**,**Mobile**,**Smart contracts**,**Social engineerin**.
+- I have experience in **Web** ,**Mobile** ,**Smart contracts**,**Social engineering**.
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **fatymedat@gmail.com**
@@ -73,7 +73,7 @@ I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a
   <b><i>"I came , I hunted , I conquered"</i></b>
 </p>
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnN3d3and1N29lODB6ZzgzYWVxcWxveTZ1MmtmOGw0Y3FzanVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"/>
+<img src=""/>
 </p>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />

@@ -1,9 +1,8 @@
-<img src="https://giffiles.alphacoders.com/209/209473.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://giffiles.alphacoders.com/209/209473.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Lostsec+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Fathy+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
 
@@ -13,10 +12,10 @@
 
 <h2 align="left">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnN3d3and1N29lODB6ZzgzYWVxcWxveTZ1MmtmOGw0Y3FzanVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Fathy Medhat [0xFat7y]`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a Hacker & Security Researcher and Penetration tester. With a strong passion for technology and expertise in bug hunting, vulnerability assessment and web security, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a Hacker & Security Researcher and Penetration tester. With a strong passion for technology and expertise in bug hunting, vulnerability assessment and web security, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>

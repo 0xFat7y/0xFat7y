@@ -12,7 +12,7 @@
 
 <h2 align="left">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25px"/>
 </h2>
 
 I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a Hacker & Security Researcher and Penetration tester. With a strong passion for technology and expertise in bug hunting, vulnerability assessment and web security, my goal is to safeguard digital assets and contribute to a more secure online community.

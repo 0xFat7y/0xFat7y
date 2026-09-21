@@ -12,7 +12,7 @@
 
 <h2 align="left">
   Hi there
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnN3d3and1N29lODB6ZzgzYWVxcWxveTZ1MmtmOGw0Y3FzanVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="25px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 </h2>
 
 I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a Hacker & Security Researcher and Penetration tester. With a strong passion for technology and expertise in bug hunting, vulnerability assessment and web security, my goal is to safeguard digital assets and contribute to a more secure online community.
@@ -73,7 +73,7 @@ I'm **[`0xFat7y`](https://www.youtube.com/channel/UC-fJrDeE_g-b-8rNri65PNA)**, a
   <b><i>"I came , I hunted , I conquered"</i></b>
 </p>
 <p align="center">
-<a>🦂</a>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnN3d3and1N29lODB6ZzgzYWVxcWxveTZ1MmtmOGw0Y3FzanVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"/>
 </p>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
